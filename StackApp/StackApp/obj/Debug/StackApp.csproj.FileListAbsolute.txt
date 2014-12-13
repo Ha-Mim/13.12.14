@@ -1,0 +1,5 @@
+C:\Users\bcc\Documents\13.12.14\StackApp\StackApp\bin\Debug\StackApp.exe.config
+C:\Users\bcc\Documents\13.12.14\StackApp\StackApp\bin\Debug\StackApp.exe
+C:\Users\bcc\Documents\13.12.14\StackApp\StackApp\bin\Debug\StackApp.pdb
+C:\Users\bcc\Documents\13.12.14\StackApp\StackApp\obj\Debug\StackApp.exe
+C:\Users\bcc\Documents\13.12.14\StackApp\StackApp\obj\Debug\StackApp.pdb
