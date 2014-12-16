@@ -50,7 +50,7 @@ namespace DictionaryApp
             string allInfo = " ";
             foreach (KeyValuePair<double,string> pair in studentInfo )
             {
-                allInfo = pair.Key + " : " + pair.Value + "\n";
+                allInfo += pair.Key + " : " + pair.Value + "\n";
             }
             MessageBox.Show(allInfo);
         }

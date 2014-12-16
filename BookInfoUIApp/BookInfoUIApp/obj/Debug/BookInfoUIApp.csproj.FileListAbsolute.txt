@@ -1,1 +1,2 @@
 C:\Users\bcc\Documents\13.12.14\BookInfoUIApp\BookInfoUIApp\bin\Debug\BookInfoUIApp.exe.config
+C:\Users\LICT\Desktop\13.12.14\BookInfoUIApp\BookInfoUIApp\bin\Debug\BookInfoUIApp.exe.config
